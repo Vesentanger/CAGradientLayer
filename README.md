@@ -16,4 +16,6 @@
 		2.CAGradientLayer的frame值的size不为正方形的话，坐标系统会被拉伸
 		3.CAGradientLayer的startPoint和endPoint会直接决定颜色的绘制方向
 		4.CAGradientLayer的颜色分割点时以0到1的比例来计算的
+##效果图
+![image](https://github.com/Vesentanger/CAGradientLayer/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE.png)
 ##具体参照文件夹OC代码中的注释
